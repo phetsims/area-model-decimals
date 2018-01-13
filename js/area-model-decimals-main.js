@@ -9,9 +9,9 @@ define( function( require ) {
   'use strict';
 
   // modules
+  var DecimalsScreen = require( 'AREA_MODEL_COMMON/screens/DecimalsScreen' );
   var Sim = require( 'JOIST/Sim' );
   var SimLauncher = require( 'JOIST/SimLauncher' );
-  var AreaModelDecimalsScreen = require( 'AREA_MODEL_DECIMALS/area-model-decimals/AreaModelDecimalsScreen' );
 
   // strings
   var areaModelDecimalsTitleString = require( 'string!AREA_MODEL_DECIMALS/area-model-decimals.title' );
@@ -29,7 +29,7 @@ define( function( require ) {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( areaModelDecimalsTitleString, [ new AreaModelDecimalsScreen() ], simOptions );
+    var sim = new Sim( areaModelDecimalsTitleString, [ new DecimalsScreen() ], simOptions );
     sim.start();
   } );
 } );
