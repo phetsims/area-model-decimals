@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.0.0-rc.2 Tue Apr 24 2018 14:07:34 GMT-0600 (MDT)",
+  "comment": "# area-model-decimals 1.0.0-rc.2 Tue Apr 24 2018 14:34:24 GMT-0600 (MDT)",
   "area-model-common": {
-    "sha": "fd8c4ec5338ec9d7e1ca4a9012c3e018cc3c09c2",
+    "sha": "9ae0a66038e50135ab8adddcc4efddb19b10bad3",
     "branch": "area-model-decimals-1.0"
   },
   "area-model-decimals": {
-    "sha": "6c0b219ed057124219c1119fab14ff2fa11a1b97",
+    "sha": "2494e0e235fa0b45f2df010eaf66440cea5bbb17",
     "branch": "1.0"
   },
   "assert": {
