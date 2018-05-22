@@ -10,6 +10,8 @@
     "grunt": "~1.0.0"
   },
   "phet": {
+    "accessible": true,
+    "colorProfile": true,
     "requirejsNamespace": "AREA_MODEL_DECIMALS",
     "phetLibs": [
       "area-model-common",
