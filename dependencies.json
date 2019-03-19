@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.0.3 Tue Mar 05 2019 14:26:58 GMT-0500 (EST)",
+  "comment": "# area-model-decimals 1.0.3 Tue Mar 19 2019 15:33:40 GMT-0400 (EDT)",
   "area-model-common": {
     "sha": "9ae0a66038e50135ab8adddcc4efddb19b10bad3",
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "2761b2710eb66a00ae6b9a534fd73f7d6513d2be",
+    "sha": "6a05f676ee20e930f13901e17a0757684ffac743",
     "branch": "1.0"
   },
   "assert": {
@@ -18,11 +18,11 @@
   },
   "brand": {
     "sha": "e3915f1ea98e1cc6ab5f4ea601cba0d8b0b51ed7",
-    "branch": "area-model-decimals-1.0"
+    "branch": "HEAD"
   },
   "chipper": {
-    "sha": "1fb99a869c0bbe46528c7a2abdd1cf141b3a04ca",
-    "branch": "HEAD"
+    "sha": "e92fe4347c6da4a4b68720515929ade26e6407d1",
+    "branch": "area-model-decimals-1.0"
   },
   "dot": {
     "sha": "62f0aa425038a03977362beea8e2310d91feca68",
@@ -30,7 +30,7 @@
   },
   "joist": {
     "sha": "937080fbb2812cb5094ed9e53bfd03c02a2a75be",
-    "branch": "area-model-decimals-1.0"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "b607147875dca2c350235f96d4f5546617bc6e4b",
@@ -58,6 +58,10 @@
   },
   "phetcommon": {
     "sha": "80d991a2fc3c17f95ae39439f833099b19bcaf92",
+    "branch": "HEAD"
+  },
+  "phetmarks": {
+    "sha": "0eba2ef2cb11977efd63cc5471ed35c80dac2fd4",
     "branch": "HEAD"
   },
   "query-string-machine": {
@@ -95,9 +99,5 @@
   "vibe": {
     "sha": "3f0b440ac6143f67a51101d563dfe127be4dd021",
     "branch": "HEAD"
-  },
-  "phetmarks": {
-    "branch": "master",
-    "sha": "0eba2ef2cb11977efd63cc5471ed35c80dac2fd4"
   }
 }
