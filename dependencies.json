@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.1.0-rc.2 Tue Mar 19 2019 13:52:03 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-decimals 1.1.0-rc.2 Tue Mar 19 2019 14:17:21 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "1f66b1367629b6f8e6da61ce6c93f35c5ff35775",
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "a87e2e8c205d0c5184f4e0c76bb968c4d17f08ba",
+    "sha": "e5f795c826422f3b915ee7892a59eff41857eca9",
     "branch": "1.1"
   },
   "assert": {
@@ -17,12 +17,12 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "1fd6682e452ae55e0bd27b95376fd2c626b16d6e",
-    "branch": "HEAD"
+    "sha": "7034486b5c4cc1691de2c11a050d599d3fda2971",
+    "branch": "area-model-decimals-1.1"
   },
   "chipper": {
     "sha": "0b9b6c00c0b1c2fd183a47cac8422ea988cdedfb",
-    "branch": "area-model-decimals-1.1"
+    "branch": "HEAD"
   },
   "dot": {
     "sha": "266d3b7a2e9131071db77afa45da8440f1e82e9b",
