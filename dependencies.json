@@ -95,5 +95,9 @@
   "vibe": {
     "sha": "3f0b440ac6143f67a51101d563dfe127be4dd021",
     "branch": "HEAD"
+  },
+  "phetmarks": {
+    "branch": "master",
+    "sha": "349fdf2e0aedab7a2a49c89d6b3283eb7dd8ccf2"
   }
 }
