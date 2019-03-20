@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.0.3 Tue Mar 19 2019 15:33:40 GMT-0400 (EDT)",
+  "comment": "# area-model-decimals 1.0.4-rc.1 Wed Mar 20 2019 12:15:26 GMT-0400 (EDT)",
   "area-model-common": {
     "sha": "9ae0a66038e50135ab8adddcc4efddb19b10bad3",
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "6a05f676ee20e930f13901e17a0757684ffac743",
+    "sha": "76c4a654c8ebaad026c8fee198fa547e32ff22d1",
     "branch": "1.0"
   },
   "assert": {
@@ -22,7 +22,7 @@
   },
   "chipper": {
     "sha": "e92fe4347c6da4a4b68720515929ade26e6407d1",
-    "branch": "area-model-decimals-1.0"
+    "branch": "HEAD"
   },
   "dot": {
     "sha": "62f0aa425038a03977362beea8e2310d91feca68",
