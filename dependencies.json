@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.2.0-rc.2 Thu Jun 13 2019 10:17:51 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-decimals 1.2.0-rc.2 Thu Jun 13 2019 10:37:23 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
-    "sha": "417f5342aa8c55aa9fd9769c0b8696fca831a3f6",
+    "sha": "c2f84fe3a48da8ab6abde2588734a2b4c8a4cc0f",
     "branch": "area-model-decimals-1.2"
   },
   "area-model-decimals": {
-    "sha": "6ffcf462e78981be137bbb8f54e7ecc7c374c6bb",
+    "sha": "4701f27f9e8ebd8de7e8e04d577f20e2f4e90c55",
     "branch": "1.2"
   },
   "assert": {
