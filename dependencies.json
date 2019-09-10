@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.0.9 Mon Sep 09 2019 10:50:01 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-decimals 1.0.10-rc.1 Mon Sep 09 2019 22:34:02 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "9ae0a66038e50135ab8adddcc4efddb19b10bad3",
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "2d3bb1d3f36bf56362a6a5b26d7d2ac9330efd88",
+    "sha": "7b5c2ba1cdae4f565dda73dfe5e721d0235e8ac8",
     "branch": "1.0"
   },
   "assert": {
@@ -30,7 +30,7 @@
   },
   "joist": {
     "sha": "05131b49e3b14d8e7f9e91d99af19d755e4e39b2",
-    "branch": "area-model-decimals-1.0"
+    "branch": "HEAD"
   },
   "kite": {
     "sha": "b607147875dca2c350235f96d4f5546617bc6e4b",
