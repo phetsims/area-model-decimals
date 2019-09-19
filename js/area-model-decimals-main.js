@@ -16,7 +16,7 @@ define( require => {
   // strings
   const areaModelDecimalsTitleString = require( 'string!AREA_MODEL_DECIMALS/area-model-decimals.title' );
 
-  var simOptions = {
+  const simOptions = {
     credits: {
       leadDesign: 'Amy Hanson, Amanda McGarry',
       softwareDevelopment: 'Jonathan Olson',
@@ -27,7 +27,7 @@ define( require => {
   };
 
   SimLauncher.launch( function() {
-    var sim = new Sim( areaModelDecimalsTitleString, [ new DecimalsScreen() ], simOptions );
+    const sim = new Sim( areaModelDecimalsTitleString, [ new DecimalsScreen() ], simOptions );
     sim.start();
   } );
 } );
