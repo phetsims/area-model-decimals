@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.0.10 Thu Sep 19 2019 00:29:58 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-decimals 1.0.10 Mon Sep 23 2019 14:20:28 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "9ae0a66038e50135ab8adddcc4efddb19b10bad3",
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "9d1bebdd9d6a32428e74272bfc93dfac7db787f0",
+    "sha": "306b71bdb4798f4de3cecbc4d790f3b7537f525c",
     "branch": "1.0"
   },
   "assert": {
@@ -61,8 +61,8 @@
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "31454529d17a64eb8f59a35e38683c0dbe9b2c34",
-    "branch": "HEAD"
+    "sha": "95bac6340b8dda320192d88a616058f4874cb419",
+    "branch": "area-model-decimals-1.0"
   },
   "scenery-phet": {
     "sha": "43d8f7d9a5012e4547d9de62d79df7b440963f1d",
