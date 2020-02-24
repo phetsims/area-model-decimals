@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.2.0 Mon Feb 24 2020 12:06:45 GMT-0700 (Mountain Standard Time)",
+  "comment": "# area-model-decimals 1.2.0 Mon Feb 24 2020 12:09:07 GMT-0700 (Mountain Standard Time)",
   "area-model-common": {
-    "sha": "ad88c3a3d316b076e7a467f96acf04893ae41c27",
-    "branch": "HEAD"
+    "sha": "561227757a20976a6fbbc3da266f429b68481c5a",
+    "branch": "area-model-decimals-1.2"
   },
   "area-model-decimals": {
-    "sha": "f0bcb8a0aa447ff1bd2bba5bd7010510837359f1",
+    "sha": "821fe706f1ad20662c64b2013860666e71e2a1a1",
     "branch": "1.2"
   },
   "assert": {
@@ -90,6 +90,6 @@
   },
   "vegas": {
     "sha": "72b9c07acd38e4708ba5bf290a5b2db18417c3cd",
-    "branch": "area-model-decimals-1.2"
+    "branch": "HEAD"
   }
 }
