@@ -9,7 +9,7 @@
 import DecimalsScreen from '../../area-model-common/js/screens/DecimalsScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import SimLauncher from '../../joist/js/SimLauncher.js';
-import areaModelDecimalsStrings from './area-model-decimals-strings.js';
+import areaModelDecimalsStrings from './areaModelDecimalsStrings.js';
 
 const areaModelDecimalsTitleString = areaModelDecimalsStrings[ 'area-model-decimals' ].title;
 
