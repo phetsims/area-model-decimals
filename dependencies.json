@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.2.1 Wed Apr 21 2021 16:54:12 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-decimals 1.2.2-rc.1 Thu Apr 22 2021 16:52:09 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "561227757a20976a6fbbc3da266f429b68481c5a",
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "1ae6e7b05bfd5fea59f02e738234295103477a12",
+    "sha": "c954cc7a1868d344f103c583e9ba66762e22e659",
     "branch": "1.2"
   },
   "assert": {
@@ -62,7 +62,7 @@
   },
   "scenery": {
     "sha": "425923b10754e1fec8b05976ae1f25e96f7ec0d7",
-    "branch": "area-model-decimals-1.2"
+    "branch": "HEAD"
   },
   "scenery-phet": {
     "sha": "38ec061a5ea269c5a58b7dbf271a6e2ff38c53f5",
