@@ -1,11 +1,11 @@
 {
-  "comment": "# area-model-decimals 1.2.2-rc.1 Fri May 07 2021 19:53:44 GMT-0600 (Mountain Daylight Time)",
+  "comment": "# area-model-decimals 1.2.2-rc.1 Mon May 10 2021 13:01:21 GMT-0600 (Mountain Daylight Time)",
   "area-model-common": {
     "sha": "561227757a20976a6fbbc3da266f429b68481c5a",
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "43706742b8f317cef013e588131d48a19460465c",
+    "sha": "b477c08d756d3d8e4409bf6ba9801326582347bb",
     "branch": "1.2"
   },
   "assert": {
@@ -54,15 +54,15 @@
   },
   "phetmarks": {
     "sha": "22321324c88fa342a958c4313e2603e34c495880",
-    "branch": "area-model-decimals-1.2"
+    "branch": "HEAD"
   },
   "query-string-machine": {
     "sha": "d1e4a8e6eca6c5061c0ae482548d3332a20004b9",
     "branch": "HEAD"
   },
   "scenery": {
-    "sha": "425923b10754e1fec8b05976ae1f25e96f7ec0d7",
-    "branch": "HEAD"
+    "sha": "0cd6834c0516aea7b5915a4694d262af92b7258c",
+    "branch": "area-model-decimals-1.2"
   },
   "scenery-phet": {
     "sha": "38ec061a5ea269c5a58b7dbf271a6e2ff38c53f5",
