@@ -5,11 +5,13 @@
  */
 /* eslint-disable */
 import getStringModule from '../../chipper/js/getStringModule.js';
+import TReadOnlyProperty from '../../axon/js/TReadOnlyProperty.js';
 import areaModelDecimals from './areaModelDecimals.js';
 
 type StringsType = {
   'area-model-decimals': {
     'title': string;
+    'titleProperty': TReadOnlyProperty<string>;
   }
 };
 
