@@ -11,7 +11,7 @@ import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
 import areaModelDecimalsStrings from './areaModelDecimalsStrings.js';
 
-const areaModelDecimalsTitleString = areaModelDecimalsStrings[ 'area-model-decimals' ].title;
+const areaModelDecimalsTitleStringProperty = areaModelDecimalsStrings[ 'area-model-decimals' ].titleStringProperty;
 
 const simOptions = {
   credits: {
@@ -24,6 +24,6 @@ const simOptions = {
 };
 
 simLauncher.launch( () => {
-  const sim = new Sim( areaModelDecimalsTitleString, [ new DecimalsScreen() ], simOptions );
+  const sim = new Sim( areaModelDecimalsTitleStringProperty, [ new DecimalsScreen() ], simOptions );
   sim.start();
 } );
