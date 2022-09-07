@@ -9,9 +9,9 @@
 import DecimalsScreen from '../../area-model-common/js/screens/DecimalsScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
-import areaModelDecimalsStrings from './areaModelDecimalsStrings.js';
+import AreaModelDecimalsStrings from './AreaModelDecimalsStrings.js';
 
-const areaModelDecimalsTitleStringProperty = areaModelDecimalsStrings[ 'area-model-decimals' ].titleStringProperty;
+const areaModelDecimalsTitleStringProperty = AreaModelDecimalsStrings[ 'area-model-decimals' ].titleStringProperty;
 
 const simOptions = {
   credits: {

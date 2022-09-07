@@ -15,8 +15,8 @@ type StringsType = {
   }
 };
 
-const areaModelDecimalsStrings = getStringModule( 'AREA_MODEL_DECIMALS' ) as StringsType;
+const AreaModelDecimalsStrings = getStringModule( 'AREA_MODEL_DECIMALS' ) as StringsType;
 
-areaModelDecimals.register( 'areaModelDecimalsStrings', areaModelDecimalsStrings );
+areaModelDecimals.register( 'AreaModelDecimalsStrings', AreaModelDecimalsStrings );
 
-export default areaModelDecimalsStrings;
+export default AreaModelDecimalsStrings;
