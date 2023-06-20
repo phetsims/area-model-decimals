@@ -5,13 +5,13 @@
  */
 /* eslint-disable */
 import getStringModule from '../../chipper/js/getStringModule.js';
-import LinkableProperty from '../../axon/js/LinkableProperty.js';
 import areaModelDecimals from './areaModelDecimals.js';
+import type LocalizedStringProperty from '../../chipper/js/LocalizedStringProperty.js';
 
 type StringsType = {
   'area-model-decimals': {
     'title': string;
-    'titleStringProperty': LinkableProperty<string>;
+    'titleStringProperty': LocalizedStringProperty;
   }
 };
 
