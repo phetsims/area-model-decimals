@@ -5,8 +5,8 @@
  */
 /* eslint-disable */
 import getStringModule from '../../chipper/js/getStringModule.js';
-import areaModelDecimals from './areaModelDecimals.js';
 import type LocalizedStringProperty from '../../chipper/js/LocalizedStringProperty.js';
+import areaModelDecimals from './areaModelDecimals.js';
 
 type StringsType = {
   'area-model-decimals': {
