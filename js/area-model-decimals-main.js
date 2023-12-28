@@ -9,6 +9,7 @@
 import DecimalsScreen from '../../area-model-common/js/screens/DecimalsScreen.js';
 import Sim from '../../joist/js/Sim.js';
 import simLauncher from '../../joist/js/simLauncher.js';
+import soundManager from '../../tambo/js/soundManager.js';
 import AreaModelDecimalsStrings from './AreaModelDecimalsStrings.js';
 
 const areaModelDecimalsTitleStringProperty = AreaModelDecimalsStrings[ 'area-model-decimals' ].titleStringProperty;
@@ -26,4 +27,6 @@ const simOptions = {
 simLauncher.launch( () => {
   const sim = new Sim( areaModelDecimalsTitleStringProperty, [ new DecimalsScreen() ], simOptions );
   sim.start();
+
+  soundManager.setOutputLevelForCategory( 'user-interface', 0 );
 } );
