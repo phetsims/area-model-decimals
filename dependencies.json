@@ -5,7 +5,7 @@
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "39f30c396dc0eb07f0c75e4a99385ebccb4b2873",
+    "sha": "1fa87e06e9cd4164f52e93d6cb5c0f67eb9805d4",
     "branch": "1.2"
   },
   "assert": {
@@ -49,7 +49,7 @@
     "branch": "HEAD"
   },
   "phetcommon": {
-    "sha": "14fba616fc3999b6eb43b86465794033f9f0102e",
+    "sha": "e4802c86f771ca06e984b05f5a80bd881c31561a",
     "branch": "HEAD"
   },
   "phetmarks": {
