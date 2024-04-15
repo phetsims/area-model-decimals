@@ -1,11 +1,11 @@
 {
   "comment": "# area-model-decimals 1.3.0-rc.2 Tue Apr 09 2024 21:11:07 GMT-0600 (Mountain Daylight Saving Time)",
   "area-model-common": {
-    "sha": "d64fad303729f82c393d0b02cf3123b5060ec98b",
+    "sha": "0406bedfd5f63bc5ae1ad84b2133776c0331ffea",
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "38577ae4a659b2c6367e074682112929efbcd609",
+    "sha": "4553754a572697d0ef40f89aa5037e2c790ced8e",
     "branch": "1.3"
   },
   "assert": {
