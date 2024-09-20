@@ -34,7 +34,7 @@
         ],
         "parserOptions": {
           "project": [
-            "../area-model-decimals/tsconfig.json"
+            "../chipper/tsconfig/eslint-all/tsconfig.json"
           ]
         }
       }
