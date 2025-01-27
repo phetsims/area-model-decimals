@@ -13,7 +13,6 @@ import areaModelDecimals from './areaModelDecimals.js';
 
 type StringsType = {
   'area-model-decimals': {
-    'title': string;
     'titleStringProperty': LocalizedStringProperty;
   }
 };
