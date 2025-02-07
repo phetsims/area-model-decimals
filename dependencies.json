@@ -5,7 +5,7 @@
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "9b267bd83b0d80065b041145e32bba47b056bfc3",
+    "sha": "6489ce7758b7c6dd54e1edda3de4b9e83f346e97",
     "branch": "1.3"
   },
   "assert": {
@@ -29,7 +29,7 @@
     "branch": "HEAD"
   },
   "joist": {
-    "sha": "aa98fda8cc4624f402df9c5062916c52d415c62e",
+    "sha": "ef8c86623b45c74a4ab4bf72098a5f28970b8f49",
     "branch": "HEAD"
   },
   "kite": {
