@@ -3,7 +3,7 @@
 /**
  * Main entry point for the sim.
  *
- * @author Jonathan Olson <jonathan.olson@colorado.edu>
+ * @author Jonathan Olson (PhET Interactive Simulations)
  */
 
 import DecimalsScreen from '../../area-model-common/js/screens/DecimalsScreen.js';
