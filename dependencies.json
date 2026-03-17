@@ -5,7 +5,7 @@
     "branch": "HEAD"
   },
   "area-model-decimals": {
-    "sha": "9a8a8ac568d5844b4b29bac6f5921fbf3935c957",
+    "sha": "eb7d2c15a97a30decfef984d119318d8712d023a",
     "branch": "1.3"
   },
   "assert": {
@@ -17,7 +17,7 @@
     "branch": "HEAD"
   },
   "brand": {
-    "sha": "5e614c8d6309de200bd9166991cf395c16865cfe",
+    "sha": "38c65e03c076969a4efe07df993c7385d5a4a3a9",
     "branch": "HEAD"
   },
   "chipper": {
