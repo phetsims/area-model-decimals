@@ -19,4 +19,6 @@ type StringsType = {
 
 const AreaModelDecimalsStrings = getStringModule( 'AREA_MODEL_DECIMALS' ) as StringsType;
 
+areaModelDecimals.register( 'AreaModelDecimalsStrings', AreaModelDecimalsStrings );
+
 export default AreaModelDecimalsStrings;
