@@ -19,7 +19,7 @@ const simOptions = {
     softwareDevelopment: 'Jonathan Olson, Luisa Vargas',
     team: 'Karina Hensberry, Susan Miller, Ariel Paul, Kathy Perkins, Oliver Nix',
     qualityAssurance: 'Steele Dalton, Jaron Droder, Bryce Griebenow, Ethan Johnson, Liam Mulhall, Ben Roberts, Jacob Romero, Nancy Salpepi, Ethan Ward, Clara Wilson, Kathryn Woessner',
-    graphicArts: 'Mariah Hermsmeyer, Amanda McGarry, Diana L\u00f3pez Tavares'
+    graphicArts: 'Mariah Hermsmeyer, Amanda McGarry, Diana López Tavares'
   }
 };
 
